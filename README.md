@@ -9,6 +9,10 @@
 
 本项目为环境污染数据分析系统，采用模块化软件工程架构，综合运用数据清洗、可视化分析、特征工程和机器学习技术，对环境污染数据进行全面分析和预测。通过构建多种机器学习模型，以期发现环境污染变量间的关系，并准确预测PM2.5浓度，为环境监测和污染控制提供科学依据。
 
+## 贡献者
+
+- [FinnClair-Su](https://github.com/FinnClair-Su) - 项目负责人 (kanade271828@gmail.com)
+- [xiaokchaojm](https://github.com/xiaokchaojm) - (wss43214321@gmail.com)
 
 ## 创新点
 
@@ -163,10 +167,7 @@ python main.py
 3. **迁移学习**：利用迁移学习方法将模型应用于数据稀缺地区
 4. **大气化学机理整合**：结合大气化学机理改进预测模型
 
-## 贡献者
 
-- [FinnClair-Su](https://github.com/FinnClair-Su) - 项目负责人 (kanade271828@gmail.com)
-- [xiaokchaojm](https://github.com/xiaokchaojm)
 
 ## 许可
 
